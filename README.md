@@ -1,6 +1,6 @@
 <div align= "center">
-
-![XOsX width="100px" height="100px"](https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592)
+<img src="https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592" width="350px" height="400px">
+<!-- ![XOsX width="100px" height="100px"](https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592) -->
 
 # Hii there, Myself Viraj Kulkarni :)
 
