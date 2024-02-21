@@ -33,3 +33,16 @@
 
 </div>
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virumons&label=Profile%20views&color=0e75b6&style=flat" alt="virumons" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virumons" alt="virumons" /></a> </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virumons&show_icons=true&locale=en&layout=compact" alt="virumons" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virumons&show_icons=true&locale=en" alt="virumons" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virumons&" alt="virumons" /></p>
