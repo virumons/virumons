@@ -2,13 +2,14 @@
 <img src="https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592" width="350px" height="400px">
 <!-- ![XOsX width="100px" height="100px"](https://github.com/virumons/virumons/assets/95925653/7289f4e2-0315-477e-bd59-d456025f9592) -->
 
-# Hii there, Myself Viraj Kulkarni :)
 
-## 👨‍💻About me
-### 👋Viraj, pursuing Computer Science & Engineering at SDMCET, Dharwad. 
+<div align ="left">
+<h1>👨‍💻About me</h1>
+<h2>👋Viraj, pursuing Computer Science & Engineering at SDMCET, Dharwad. </h2>
 🚀 Proficient in web development <br>
 💻 Passionate about collaboration, problem-solving, and continuous growth. <br>
 🌐 Eager to connect, learn, and contribute in a collaborative development environment. <br>
+</div>
 
 ## 📌Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/viraj-kulkarni-516611250)
