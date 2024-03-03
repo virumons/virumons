@@ -87,8 +87,6 @@
 
 <div> <a href="https://github.com/Virumons" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virumons&layout=compact&theme=dark" alt=Virumons />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Virumons&show_icons=true&locale=en&theme=dark" alt="Virumons" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Virumons&theme=dark" alt="Virumons" /></p>
